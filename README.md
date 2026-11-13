@@ -12,8 +12,8 @@ I study how literature is perceived in society: how it is talked about, used and
 - Reading behavior and literacy in a post-digital world
 - Reception and public perception of human and AI literature
 
-## Dissertation
-**Literatur im Niederländischen Parlament**
+## Dissertation 📜
+**Literatur im niederländischen Parlament: Literaturkonzepte von politischen Eliten im 20. und 21. Jahrhundert**
 
 My doctoral research examines how literature is discussed in Dutch, British and German parliamentary debates.
 
