@@ -17,7 +17,7 @@ I study how literature is perceived in society: how it is talked about, used and
 
 My doctoral research examines how literature is discussed in Dutch, British and German parliamentary debates.
 
-📦 [Code & data on University of Oldenburg repository DARE] (https://doi.org/10.57782/HI0XPX) (https://doi.org/10.57782/DYEFBU)
+📦 Code & data on University of Oldenburg repository DARE: (https://doi.org/10.57782/HI0XPX) (https://doi.org/10.57782/DYEFBU)
 
 <!--
 **LiLuBla/LiLuBla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
